@@ -4,7 +4,8 @@
 
 ## 📖 O que são laços de repetição?
 
-Laços de repetição (ou estruturas de repetição) são comandos que permitem executar **um bloco de código várias vezes**, de acordo com uma condição ou com a quantidade de itens em uma lista.
+Laços de repetição (ou estruturas de repetição) são comandos que permitem executar **um bloco de código várias vezes**,
+de acordo com uma condição ou com a quantidade de itens em uma lista.
 
 Eles evitam que o programador precise repetir manualmente o mesmo código várias vezes.
 
@@ -129,7 +130,8 @@ do {
 
 ## 🚀 Conclusão
 
-Os laços de repetição são ferramentas poderosas que permitem tornar nossos programas mais eficientes, evitando códigos repetitivos.
+Os laços de repetição são ferramentas poderosas que permitem tornar nossos programas mais eficientes,
+evitando códigos repetitivos.
 
 Saber escolher qual laço usar depende do problema que você está resolvendo:
 
