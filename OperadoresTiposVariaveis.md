@@ -1,4 +1,3 @@
-Perfeito! Aqui está seu conteúdo formatado em Markdown, pronto para colocar no GitHub:
 
 ````markdown
 # Operadores, Tipos e Variáveis
@@ -372,5 +371,4 @@ console.log("NumeroUm: " + numeroUm + "/ " + "NumeroDois: " + numeroDois);
 
 ```
 
-Se quiser, posso te gerar esse arquivo `.md` e te enviar também. Quer?
 ```
