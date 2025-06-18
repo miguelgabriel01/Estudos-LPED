@@ -2,7 +2,8 @@
 ```markdown
 # O que é um Algoritmo?
 
-Um **algoritmo** é uma sequência finita e bem definida de passos ou instruções que devem ser seguidos para resolver um problema ou realizar uma tarefa específica.
+Um **algoritmo** é uma sequência finita e bem definida de passos ou instruções que devem ser seguidos para resolver um problema
+ou realizar uma tarefa específica.
 
 ## Características principais de um algoritmo:
 
@@ -15,7 +16,8 @@ Um **algoritmo** é uma sequência finita e bem definida de passos ou instruçõ
 
 ## Por que algoritmos são importantes?
 
-Algoritmos são a base da programação e da ciência da computação, pois permitem transformar problemas complexos em uma série de passos simples e executáveis por computadores.
+Algoritmos são a base da programação e da ciência da computação, pois permitem transformar problemas complexos em uma série de
+passos simples e executáveis por computadores.
 
 ## Exemplo simples de algoritmo
 
@@ -34,6 +36,7 @@ Esse conjunto de instruções pode ser implementado em diversas linguagens de pr
 
 ## Resumo
 
-Em resumo, um algoritmo é um plano detalhado e sistemático para resolver problemas, que pode ser escrito em linguagem natural, pseudocódigo ou código de programação.
+Em resumo, um algoritmo é um plano detalhado e sistemático para resolver problemas, que pode ser escrito em linguagem natural,
+pseudocódigo ou código de programação.
 ```
 
