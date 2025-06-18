@@ -8,7 +8,8 @@
 
 ### O que são?
 
-Variáveis são espaços na memória do computador que armazenam dados temporariamente para que possam ser usados, manipulados ou alterados durante a execução do programa.
+Variáveis são espaços na memória do computador que armazenam dados temporariamente para que possam ser usados,
+manipulados ou alterados durante a execução do programa.
 
 ### Como declarar variáveis em JavaScript?
 
