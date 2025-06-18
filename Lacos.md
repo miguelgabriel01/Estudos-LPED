@@ -128,6 +128,89 @@ do {
 
 ---
 
+````markdown
+# 🔢 Exercícios de Laços com `for` em JavaScript
+
+---
+
+## 📌 Imprimir os números negativos de 1 em 1, de -1 até -20
+
+```javascript
+for(var i = -1; i >= -20; i--){
+    console.log(i);
+}
+````
+
+---
+
+## 📌 Imprimir os números de 3 em 3, de 0 até 30
+
+```javascript
+for(var i = 0; i <= 30; i += 3){
+    console.log(i);
+}
+```
+
+---
+
+## 📌 Imprimir os números de 3 em 3, de 0 até -30
+
+```javascript
+for(var i = 0; i >= -30; i += -3){
+    console.log(i);
+}
+```
+
+---
+
+## 📌 Imprimir os 10 primeiros números ímpares
+
+```javascript
+for(var i = 0; i <= 20; i++){
+    if(i % 2 != 0){
+        console.log(i);
+    }
+}
+```
+
+---
+
+## 📌 Imprimir os 20 primeiros números divisíveis por 3
+
+```javascript
+for(var i = 0; i <= 30; i++){
+    if(i % 3 == 0){
+        console.log(i);
+    }
+}
+```
+
+---
+
+## 📌 Imprimir os quadrados dos 10 primeiros números inteiros
+
+```javascript
+for(var i = 0; i <= 10; i++){
+    var imprimirNumerosAoQuadrado = i ** 2;
+    console.log(imprimirNumerosAoQuadrado);
+}
+```
+
+---
+
+## 📌 Imprimir os números entre 0 e 25 em ordem decrescente
+
+```javascript
+for(var i = 25; i >= 0; i--){
+    console.log(i);
+}
+```
+
+---
+
+```
+
+
 ## 🚀 Conclusão
 
 Os laços de repetição são ferramentas poderosas que permitem tornar nossos programas mais eficientes,
