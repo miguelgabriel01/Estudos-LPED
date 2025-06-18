@@ -1,13 +1,10 @@
-Perfeito! Aqui está o mesmo conteúdo **totalmente formatado para um arquivo `.md`**, com marcações corretas de Markdown, pronto para GitHub, VSCode ou qualquer outro ambiente.
-
----
-
 ````markdown
 # Operadores Lógicos em JavaScript
 
 ## 📖 O que são Operadores Lógicos?
 
-Operadores lógicos são ferramentas fundamentais em qualquer linguagem de programação. Eles permitem criar **expressões lógicas**, que resultam em **verdadeiro (`true`) ou falso (`false`)**, com base na combinação de duas ou mais condições.
+Operadores lógicos são ferramentas fundamentais em qualquer linguagem de programação. Eles permitem criar **expressões lógicas**,
+que resultam em **verdadeiro (`true`) ou falso (`false`)**,com base na combinação de duas ou mais condições.
 
 Eles são essenciais para que o programa tome decisões mais complexas.
 
@@ -163,12 +160,4 @@ Operadores lógicos são fundamentais para criar **decisões mais inteligentes n
 Eles estão presentes em praticamente todo código que envolve verificações, validações, regras de negócio e tomadas de decisão.
 
 ---
-
-### 📄 Arquivo desenvolvido para fins de estudo e prática de lógica de programação com JavaScript.
-
-```
-
----
-
-Se quiser, posso gerar esse arquivo `.md` e te enviar diretamente. Quer?
 ```
