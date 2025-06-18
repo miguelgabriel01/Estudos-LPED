@@ -1,7 +1,9 @@
 ```markdown
 # 🚀 Estudos de Lógica de Programação e Estruturas de Dados em JavaScript
 
-Este repositório é dedicado ao estudo e prática de **lógica de programação** e **estruturas de dados**, utilizando a linguagem **JavaScript** como base. Aqui você encontrará conteúdos, anotações, exercícios e desafios que visam fortalecer a base lógica, pensamento computacional e resolução de problemas, habilidades essenciais para qualquer desenvolvedor.
+Este repositório é dedicado ao estudo e prática de **lógica de programação** e **estruturas de dados**, utilizando a linguagem
+**JavaScript** como base. Aqui você encontrará conteúdos, anotações, exercícios e desafios que visam fortalecer a base lógica,
+pensamento computacional e resolução de problemas, habilidades essenciais para qualquer desenvolvedor.
 
 ---
 
@@ -26,9 +28,11 @@ Todos os exemplos e exercícios são apresentados em **JavaScript**, uma linguag
 
 ## 👨‍💻 Sobre mim
 
-Meu nome é **Miguel Gabriel**, sou desenvolvedor com experiência em back-end, front-end e integrações. Busco constantemente aprimorar minha lógica de programação e aprofundar conhecimentos em algoritmos e estruturas de dados.
+Meu nome é **Miguel Gabriel**, sou desenvolvedor com experiência em back-end, front-end e integrações. Busco constantemente
+aprimorar minha lógica de programação e aprofundar conhecimentos em algoritmos e estruturas de dados.
 
-Este repositório é uma expressão do meu compromisso com o aprendizado contínuo, clareza técnica e evolução profissional na área de desenvolvimento de software.
+Este repositório é uma expressão do meu compromisso com o aprendizado contínuo, clareza técnica e evolução profissional na
+área de desenvolvimento de software.
 
 ---
 
@@ -57,7 +61,8 @@ Repositório em constante atualização com novos tópicos e exercícios.
 
 ## 🤝 Contribuição
 
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues, sugerir melhorias ou enviar pull requests com novos conteúdos e desafios.
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues, sugerir melhorias ou enviar pull requests com
+novos conteúdos e desafios.
 
 ---
 
@@ -66,5 +71,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues, sugerir 
 Este projeto está sob a licença **MIT** — fique livre para usar, modificar e compartilhar.
 
 ---
-```
 
