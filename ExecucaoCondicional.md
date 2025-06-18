@@ -189,7 +189,42 @@ if(resultadoElevadoAoCubo > 100){
     console.log("O resultado da elevacao do numero ao cubo retornou um valor menor que 100");
 }
 ```
+### 9. Implemente um programa capaz de, dadas quatro notas, computar e classificar o valor da média das notas de um  estudante como aprovado (> 6), reprovado (< 4) e recuperação (caso contrário);
+
+```javascript
+var notaA = 6;
+var notaB = 7;
+var notaC = 8;
+var notaD = 2;
+
+var mediaNotas = (notaA + notaB + notaC + notaD)/4;
+
+if(mediaNotas > 6){
+    console.log("Akuno aprovado!");
+}else if(mediaNotas < 4){
+    console.log("aluno reprovado!");
+}else{
+    console.log("Aluno em recuperação!");
+}
+```
+
+### 10. Implemente um programa capaz de computar o Índice de Massa Corporal (peso dividido pelo quadrado da altura) e classificar o resultado entre magreza (inferior a 18.5), saudável (entre 18.5 e 25), sobrepeso (acima de 25);
+```javascript
+var peso = 79.60;
+var altura = 1.55;
+
+var resultadoIMC = peso/(altura * altura);
+
+console.log(resultadoIMC)
+
+if(resultadoIMC < 18.5){
+    console.log("O paciente se encontra em um estado de magreza");
+}else if(resultadoIMC > 25){
+    console.log("O paciente se encontra em um estado de sobrepeso");
+}else if(resultadoIMC >= 18.5 && resultadoIMC <= 25){
+    console.log("O paciente esta saudavel");
+}
+```
 
 ## Conclusão
-
 Através da execução condicional, conseguimos fazer com que nossos programas sejam mais inteligentes, capazes de tomar decisões e executar diferentes caminhos dependendo da situação. Entender e praticar esse conceito é essencial para qualquer pessoa que deseja se tornar um bom desenvolvedor.
